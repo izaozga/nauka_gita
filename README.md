@@ -1,4 +1,4 @@
- # Proces step by step
+# Proces step by step
 $ git status
 $ git add
 $ git status
